@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the VIH Brochure feature.
+ */
+
+include_once 'vih_brochure.features.inc';
